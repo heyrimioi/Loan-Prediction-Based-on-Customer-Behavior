@@ -16,6 +16,6 @@ Predict who possible Defaulters are for the Consumer Loans Product.
 An organization wants to predict who possible defaulters are for the consumer loans product. 
 They have data about historic customer behavior based on what they have observed. 
 Hence when they acquire new customers they want to predict who is riskier and who is not.
-## Source
+### Source
 https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior
 
